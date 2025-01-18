@@ -43,8 +43,8 @@ A good README will typically explain:
 
 Update your README accordingly.
 
-Make sure your local repo's remote is pointed to your Github origin using: `git remote add origin <your-Github-link>`
+Make sure your local repo's remote is pointed to your Github origin using:
+
+`git remote add origin <your-Github-link>`
 
 Commit your changes using `git add .` , `git commit -m "commit message"` , and `git push -u origin main`
-
-If you
