@@ -33,10 +33,18 @@ To convert the template into your own project, change these files:
 ```README, the `title` in __index.html__, and the `"name"` in __package.json__```
 
 ## README.md
-A good README will typically explain
+A good README will typically explain:
 
 * The purpose of the code / repo
 * How to download, clone, or otherwise access the codebase
 * How to set up / install the project
 * How to use the project
 * How to contribute or make changes to the codebase
+
+Update your README accordingly.
+
+Make sure your local repo's remote is pointed to your Github origin using: `git remote add origin <your-Github-link>`
+
+Commit your changes using `git add .` , `git commit -m "commit message"` , and `git push -u origin main`
+
+If you
