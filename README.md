@@ -4,10 +4,13 @@ This repo template will help you generate a React app using Vite.
 
 ## How to clone
 
-The command that you will run to clone the repo is this:
+Run your preferred method to clone the repo:
 
 ```sh
 npx tiged <YOUR-GH-USERNAME>/my-react-vite-template#main <new-project-name>
+```
+```sh
+git clone --branch main --single-branch https://github.com/<repo-clone-link.git>
 ```
 
 (Substitute your GitHub username for `<YOUR-GH-USERNAME>`.)
