@@ -28,9 +28,10 @@ npm install
 
 Then start your Vite server by running `npm run dev`
 
-To convert the template into your own project, change these files:
+To convert the template into your own project, update these fields to your project name:
 
-```README, the `title` in __index.html__, and the `"name"` in __package.json__```
+* the `title` in __index.html__
+* the `"name"` in __package.json__*
 
 ## README.md
 A good README will typically explain:
@@ -41,10 +42,12 @@ A good README will typically explain:
 * How to use the project
 * How to contribute or make changes to the codebase
 
-Update your README accordingly.
+Update your README file accordingly in your project root.
 
-Make sure your local repo's remote is pointed to your Github origin using:
+Before pushing, make sure your local repo's remote is pointed to your Github origin using:
 
 `git remote add origin <your-Github-link>`
 
-Commit your changes using `git add .` , `git commit -m "commit message"` , and `git push -u origin main`
+Commit your changes using:
+
+`git add .` , `git commit -m "commit message"` , and `git push -u origin main`
