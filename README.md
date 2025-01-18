@@ -10,10 +10,10 @@ Run your preferred method to clone the repo:
 npx tiged <YOUR-GH-USERNAME>/my-react-vite-template#main <new-project-name>
 ```
 ```sh
-git clone --branch main --single-branch https://github.com/<repo-clone-link.git>
+git clone --branch main --single-branch https://github.com/<REPO-CLONE-LINK.git>
 ```
 
-(Substitute your GitHub username for `<YOUR-GH-USERNAME>`.)
+(Substitute your GitHub username for `<YOUR-GH-USERNAME>` or repo link for `<REPO-CLONE-LINK.git>`)
 
 This command will create a clone of the repo' `main` branch under the name
 <new-project-name> in the directory where it is run.
